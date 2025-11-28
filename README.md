@@ -191,10 +191,10 @@ Runs a single test question through the full pipeline with detailed trace output
 ## Evaluation Results
 
 Based on the 6 test questions:
-- **Type Correctness**: X/6 (X%)
-- **Has Citations**: X/6 (X%)
-- **Has SQL**: X/6 questions required SQL
-- **Confidence**: Average X.XX
+- **Type Correctness**: 4/6 (66.67%)
+- **Has Citations**: 3/6 (50%)
+- **Has SQL**: 5/6 questions required SQL
+- **Confidence**: Average 0.57
 
 ## Performance Notes
 
