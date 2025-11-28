@@ -1,0 +1,8 @@
+{
+  "module": "NL-to-SQL",
+  "metric": "SQL Validity (execution success rate)",
+  "baseline": "0.0%",
+  "optimized": "100.0%",
+  "delta": "+100.0%",
+  "improvement": true
+}
