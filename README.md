@@ -213,7 +213,7 @@ Based on the 6 test questions:
 
 ## Future Improvements
 
-- [x] Add result caching for identical queries
+- [ ] Add result caching for identical queries
 - [ ] Implement smarter repair using error classification
 - [ ] Add streaming output for long-running queries
 - [ ] Support for more complex KPI formulas
